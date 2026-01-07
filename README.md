@@ -9,7 +9,7 @@ The project combines NLP-based emotion classification with large language model�
 ## Features
 - Emotion detection from natural language text
 - Generative AI explanations for emotional context
-- Mood-based music recommendations (2015–2020)
+- Mood-based music recommendations (2015–2024)
 - Emotion normalization for robust recommendations
 - FastAPI backend
 - Secure API key handling using environment variables
